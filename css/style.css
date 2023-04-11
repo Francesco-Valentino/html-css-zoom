@@ -47,3 +47,10 @@ header,main{
 main>.wrapper-flex{
     flex-wrap: wrap;
 }
+
+.name-tag{
+    background-color: rgb(0, 0, 0, 0.6);
+    font-size: .7rem;
+    bottom: 0;
+    padding: .3rem;
+}
