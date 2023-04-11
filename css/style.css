@@ -62,3 +62,7 @@ main>.container.flex{
 footer{
     background-color: #222222;
 }
+
+ul{
+    list-style-type: none;
+}
