@@ -22,3 +22,28 @@
     position: absolute;
 }
 
+.right{
+    justify-content: end;
+}
+
+body{
+    color: white;
+    font-family: sans-serif;
+}
+
+header,main{
+    background-color: black;
+    padding-bottom: 1.5rem;
+}
+
+.header-action{
+    background-color: #4A4A4A;
+    border-radius: 5px;
+    margin: 2px 3px 0 5px;
+    padding: 5px;
+    font-size: .8rem;
+}
+
+main>.wrapper-flex{
+    flex-wrap: wrap;
+}
