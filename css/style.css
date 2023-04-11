@@ -22,6 +22,10 @@
     position: absolute;
 }
 
+.fixed{
+    position: fixed;
+}
+
 .right{
     justify-content: end;
 }
@@ -29,6 +33,10 @@
 body{
     color: white;
     font-family: sans-serif;
+}
+
+header{
+    height: 10vh;
 }
 
 header,
@@ -43,6 +51,10 @@ main{
     margin: 2px 3px 0 5px;
     padding: 5px;
     font-size: .8rem;
+}
+
+main{
+    height: 80vh;
 }
 
 main>.container.flex{
@@ -61,6 +73,16 @@ main>.container.flex{
 
 footer{
     background-color: #222222;
+}
+
+nav{
+    justify-content: space-between;
+    font-size: .7rem;
+    height: 10vh;
+}
+
+nav i{
+    font-size: 2rem;
 }
 
 ul{
