@@ -52,7 +52,7 @@ main>.container.flex{
 }
 
 .name-tag{
-    background-color: rgb(0, 0, 0, 0.6);
+    background-color: rgb(0, 0, 0, 0.4);
     font-size: .7rem;
     bottom: 0;
     padding: .3rem;
