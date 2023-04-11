@@ -58,3 +58,7 @@ main>.container.flex{
     bottom: 0;
     padding: .3rem;
 }
+
+footer{
+    background-color: #222222;
+}
