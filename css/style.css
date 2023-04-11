@@ -46,8 +46,8 @@ main{
 }
 
 main>.container.flex{
+    justify-content: space-between;
     flex-wrap: wrap;
-    overflow: scroll;
 }
 
 .name-tag{
