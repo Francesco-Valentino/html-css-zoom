@@ -56,7 +56,7 @@ main{
 
 main{
     height: 80vh;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 main>.container.flex{
